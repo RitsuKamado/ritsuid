@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
-Sitemap: https://growagardencalculator.fun/sitemap.xml
+Sitemap: Sitemap: https://growagardencalculator.fun/sitemap_index.xml
